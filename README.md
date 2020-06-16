@@ -5,6 +5,7 @@ https://create-react-app.dev/docs/getting-started/
 #npx create-react-app THE NAME OF YOUR APP/ npm init react-app THE NAME OF YOUR APP
 
 #cd THE NAME OF YOUR APP
+
 #npm start or yarn start
 
 See the tutorials and practical exercises/projects I am following
