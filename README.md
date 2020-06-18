@@ -27,3 +27,28 @@ of reactjs.org: https://reactjs.org/docs/hello-world.html
 9. Forms
 10. Lifting State Up
 11. Composition vs Inheritance
+
+ Also
+ 
+Accessibility
+Code-Splitting
+Context
+Error Boundaries
+Forwarding Refs
+Fragments
+Higher-Order Components
+Integrating with Other Libraries
+JSX In Depth
+Optimizing Performance
+Portals
+Profiler
+React Without ES6
+React Without JSX
+Reconciliation
+Refs and the DOM
+Render Props
+Static Type Checking
+Strict Mode
+Typechecking With PropTypes
+Uncontrolled Components
+Web Components
